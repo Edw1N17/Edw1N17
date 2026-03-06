@@ -1,16 +1,25 @@
-## Hi there 👋
+# Edwin Giovanny Montaño Lopez
 
-<!--
-**Edw1N17/Edw1N17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicación en el Tecnológico de Tijuana. Me interesa el mundo de la tecnología, en especial el desarrollo de software y las redes de comunicación.
 
-Here are some ideas to get you started:
+Mi meta es seguir fortaleciendo mis conocimientos técnicos para poder construir soluciones tecnológicas funcionales e innovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+- Programación en Python (nivel básico)
+- Configuración y administración básica de redes Cisco
+- Instalación y configuración de redes
+- Conocimientos en tecnologías Microsoft
+
+## Áreas de Conocimiento
+- Infraestructura de redes
+- Desarrollo de software
+- Tecnologías de la información
+
+## Habilidades Profesionales
+- Trabajo en equipo
+- Organización y responsabilidad
+- Comunicación efectiva
+
+## Objetivo Profesional
+Desarrollarme en el campo de las Tecnologías de la Información, adquiriendo experiencia práctica en programación y administración de redes, para contribuir con soluciones eficientes en el entorno tecnológico actual.
